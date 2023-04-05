@@ -7,7 +7,7 @@
     <groupId>cn.wode490390.nukkit</groupId>
     <artifactId>shpop</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0-IGN.3</version>
+    <version>1.0.0-IGN.4</version>
     <name>Stronghold Populator</name>
     <description>This is a plugin that implements the stronghold feature for Nukkit servers</description>
     <url>http://wode490390.cn/</url>
